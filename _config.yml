@@ -28,24 +28,24 @@ about_content: | # this will include new lines to allow paragraphs
 
   My top skills include: 
   
-  Problem Solving
+  Problem Solving:
   <mark>Design Thinking</mark> , <mark>Multidisciplinary Approach</mark>, <mark>Agile DevOps</mark>
   
   Programming:
   <mark>Python</mark> , <mark>R Programming</mark>
   
   Data Transformation and dashboarding:
-   <mark>Tableau</mark> , <mark>Shiny Dashboards</mark> , <mark>Talend ETL Suite</mark> , 
+  <mark>Tableau</mark> , <mark>Shiny Dashboards</mark> , <mark>Talend ETL Suite</mark> , 
   <mark>Flask API</mark> , <mark>Docker Cotainerization</mark> 
   
   Model Deployment:
   <mark>Flask API</mark> , <mark>Docker Cotainerization</mark>
   
-  Infrastructure build:
-  <mark>Cloud Computing</mark>
+  Cloud services:
+  <mark>Cloud Computing</mark> , <mark>AWS</mark>
 
 # Projects Section
-# projects_title: Projects
+# projects_title: Project
 
 # Experience Section
 # experience_title: Experience
