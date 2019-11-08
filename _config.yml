@@ -6,7 +6,7 @@ repository: darveenvijayan/modern-resume-theme
 name: Darveen Vijayan
 title: Data Scientist
 email: darveenvijayan.27@gmail.com
-# website: www.github.com/sproogen/resume-theme
+contact: +60 178268870
 
 # Social links
 twitter_username: darveenvijayan
@@ -28,10 +28,21 @@ about_content: | # this will include new lines to allow paragraphs
 
   My top skills include: 
   
-  <mark>Problem Solving</mark> , <mark>Multidisciplinary Thinking</mark>, <mark>Cloud Computing</mark> , 
-  <mark>Agile DevOps</mark> , <mark>Python</mark> , <mark>R Programming</mark> , 
-  <mark>Tableau</mark> , <mark>Shiny Dashboards</mark> , <mark>Talend ETL Suite</mark> , 
+  Problem Solving
+  <mark>Design Thinking</mark> , <mark>Multidisciplinary Approach</mark>, <mark>Agile DevOps</mark>
+  
+  Programming:
+  <mark>Python</mark> , <mark>R Programming</mark>
+  
+  Data Transformation and dashboarding:
+   <mark>Tableau</mark> , <mark>Shiny Dashboards</mark> , <mark>Talend ETL Suite</mark> , 
   <mark>Flask API</mark> , <mark>Docker Cotainerization</mark> 
+  
+  Model Deployment:
+  <mark>Flask API</mark> , <mark>Docker Cotainerization</mark>
+  
+  Infrastructure build:
+  <mark>Cloud Computing</mark>
 
 # Projects Section
 # projects_title: Projects
